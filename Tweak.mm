@@ -11,6 +11,6 @@
   %end
 
     
-    // All My Tweaks + Programs under GPL licesen // 
+    // All My Tweaks + Programs under GPL lic // 
     // This Tweak should work on iOS 10 now //
     // Any problem open issue and i will check //
